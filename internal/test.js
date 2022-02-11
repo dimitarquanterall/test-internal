@@ -6,3 +6,4 @@ console.log('Debug')
 console.log('Friday');
 console.log('Saturday')
 alert("night's alright for fighting")
+alert('local update 1')
