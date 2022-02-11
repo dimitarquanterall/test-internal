@@ -11,3 +11,4 @@ alert('remote update 1')
 alert('remote update 2')
 console.log("upfdate 3")
 alert("local")
+alert("Git updated"); 
